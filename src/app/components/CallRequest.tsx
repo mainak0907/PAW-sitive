@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import axios from 'axios';
 
-const apiKey = '4rE1SIJJ.vKSdSJTFBRZJ81NWs7i6L4tdnS8uB621';
+const apiKey = 'JUUHRg6T.WAa8A9H1tzLEbRqx7rZ1qanwZXaJM0zu';
 const apiBaseUrl = 'https://api.callchimp.ai/v1';
 
 const CallRequest: React.FC = () => {
